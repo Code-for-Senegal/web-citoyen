@@ -19,7 +19,7 @@ L'hébergement des sites web de l'administration sénégalaise est actuellement 
 
 Cependant, cette répartition pose un certain nombre de problèmes. L'hébergement à l'étranger peut entraîner des problèmes de performance et de disponibilité, et pose des questions sur la sécurité des données et la dépendance à l'égard des fournisseurs étrangers.
 
-Pour avoir une image plus complète de la situation, nous avons consulté l'annuaire des sites internet publics du Sénégal disponible sur GitHub. Lancée par **Sénégal Ouvert**, cette initiative vise à recenser tous les sites web publics du Sénégal. Elle fournit une base de données précieuse qui peut aider à dresser une cartographie détaillée des sites hébergés au Sénégal et à l'étranger.
+Pour avoir une image plus complète de la situation, nous avons consulté [l'annuaire des sites internet publics du Sénégal](https://github.com/senegalouvert/annuaire-sites-publics-senegal/tree/master) disponible sur GitHub. Lancée par **[Sénégal Ouvert](https://github.com/senegalouvert)**, cette initiative vise à recenser tous les sites web publics du Sénégal. Elle fournit une base de données précieuse qui peut aider à dresser une cartographie détaillée des sites hébergés au Sénégal et à l'étranger.
 
 En examinant ces données, nous pouvons obtenir une meilleure compréhension de l'état actuel de l'hébergement des sites web de l'administration sénégalaise, et identifier les domaines où des améliorations pourraient être apportées.
 
