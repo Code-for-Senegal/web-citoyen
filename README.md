@@ -34,7 +34,7 @@ Nous avons identifié trois rubriques principales pour les contributions :
 
 1. [Souveraineté Numérique 🌐](contributions/souverainete-numerique) : Cette rubrique englobe l'hébergement local, l'indépendance technologique, la protection des données, la transparence, la participation citoyenne et la formation et l'éducation.
 
-2. [Ouverture des Données 📊](contributions/open-data) : Cette rubrique concerne l'importance de l'ouverture des données pour un État fournisseur de données, permettant une meilleure transparence, une meilleure prise de décision et favorisant l'innovation.
+2. [Ouverture des Données 📊](contributions/ouverture-des-donnes) : Cette rubrique concerne l'importance de l'ouverture des données pour un État fournisseur de données, permettant une meilleure transparence, une meilleure prise de décision et favorisant l'innovation.
 
 3. [Web Centré sur l'Utilisateur 👥](contributions/web-centre-Citoyen) : Cette rubrique comprend l'accessibilité, la sécurité, la facilité d'utilisation, l'engagement des utilisateurs, la mise à jour et la maintenance, et l'optimisation des données et des services.
 
