@@ -1,4 +1,4 @@
-# Livre Blanc : Vers un Web Centré sur le Citoyen Sénégalais avec la Souveraineté Numérique et l'Ouverture des Données 📖
+# Livre Blanc : Vers un Web Centré sur le Citoyen Sénégalais avec la Souveraineté Numérique et l'Ouverture des Données (Jub, Jubal, Jubanti) 📖
 
 [![GitHub contributeurs](https://img.shields.io/github/contributors/Code-for-Senegal/web-citoyen.svg?style=for-the-badge)](https://github.com/Code-for-Senegal/web-citoyen/graphs/contributors) [![GitHub dernier commit](https://img.shields.io/github/last-commit/Code-for-Senegal/web-citoyen.svg?style=for-the-badge)](https://github.com/Code-for-Senegal/web-citoyen/commits/master) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
