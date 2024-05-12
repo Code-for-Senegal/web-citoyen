@@ -12,6 +12,8 @@ Il est essentiel de mettre en place des mesures robustes pour protéger les donn
 ## Transparence
 Les processus et les politiques doivent être transparents pour renforcer la confiance des citoyens.
 
+## [Emploi Local 🇸🇳](emploi-local.md)
+
 ## Participation citoyenne
 Encourager la participation des citoyens peut aider à garantir que les services répondent aux besoins de la population.
 
