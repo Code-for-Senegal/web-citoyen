@@ -24,7 +24,7 @@ Dans cette section, nous allons examiner le contexte actuel de l'entrepreneuriat
 
 4. **Politiques et réglementations** : Les politiques et réglementations en place peuvent également avoir un impact sur les opportunités pour les entreprises locales. Par exemple, certaines politiques peuvent favoriser les entreprises étrangères, tandis que d'autres peuvent poser des obstacles à l'entrepreneuriat local.
 
-5. **Loi relative à la création et à la promotion de la startup au Sénégal** : Cette loi, adoptée récemment, vise à soutenir les startups locales, en particulier dans le secteur numérique. Elle établit un cadre spécifique d'appui et de gouvernance pour les startups de droit sénégalais. Cependant, l'adoption d'une loi n'est que la première étape. L'application effective de la loi est tout aussi importante, sinon plus.
+5. **[Loi relative à la création et à la promotion de la startup au Sénégal](https://senegalouvert.github.io/Loi-Startup-au-Senegal/)** : Cette loi, adoptée récemment, vise à soutenir les startups locales, en particulier dans le secteur numérique. Elle établit un cadre spécifique d'appui et de gouvernance pour les startups de droit sénégalais. Cependant, l'adoption d'une loi n'est que la première étape. L'application effective de la loi est tout aussi importante, sinon plus.
 
 ## Exemples de réussite
 
